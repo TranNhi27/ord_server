@@ -1,0 +1,6 @@
+{
+  "commit": "c1ac9b1e2d7a214f8de98fb3d6a4c1a88abd9c056df4c2b52f503a27304a69ab",
+  "inscription": "0629751d96c46a62a8e4eec5a5513acad64a74b3763cf2513d8bfda874073ad5i0",
+  "reveal": "0629751d96c46a62a8e4eec5a5513acad64a74b3763cf2513d8bfda874073ad5",
+  "fees": 83863
+}
